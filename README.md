@@ -43,18 +43,3 @@ Have a bug or an issue with this template? Open a new issue here on GitHub.
 
 Copyright 2021 Chris Achinga. Code released under the [MIT license](LICENSE).
 
-## Status
-
-<div align='center'>
-
-[![GitHub forks](https://img.shields.io/github/forks/ChrisAchinga/react-bootstrap-starter)](https://github.com/ChrisAchinga/react-bootstrap-starter/network)
-
-[![GitHub stars](https://img.shields.io/github/stars/ChrisAchinga/react-bootstrap-starter)](https://github.com/ChrisAchinga/react-bootstrap-starter/stargazers)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/status.svg)](https://depfu.com)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/overview.svg)](https://depfu.com/github/ChrisAchinga/react-bootstrap-starter?project_id=18009)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/count.svg)](https://depfu.com/github/ChrisAchinga/react-bootstrap-starter?project_id=18009)
-
-</div>
